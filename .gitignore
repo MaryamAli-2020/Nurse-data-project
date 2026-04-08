@@ -1,0 +1,23 @@
+# Raw benchmark data
+/INRC-II_datasets _xml/
+/INRC-II_test datasets _xml/
+/SchedulingBenchmarks/
+
+# Generated outputs
+/data/processed/
+/reports/
+
+# Local caches and Python build artifacts
+/.uv-cache/
+__pycache__/
+*.py[cod]
+*.sqlite
+*.db
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
